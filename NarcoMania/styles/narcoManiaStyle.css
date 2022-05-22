@@ -1,0 +1,17 @@
+body, html, head{
+    margin: 0px;
+    padding: 0px;
+    overflow-y: hidden;
+}
+.pixel{
+    width: 43px;
+    height: 43px;
+    border: none;
+}
+.main{
+    display: flex;
+    max-width: 15000px;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+/* :; */
